@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342225412167",
+    "firebase_url": "https://viethoa-158a7.firebaseio.com",
+    "project_id": "viethoa-158a7",
+    "storage_bucket": "viethoa-158a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342225412167:android:5853646d0281a781",
+        "android_client_info": {
+          "package_name": "com.xiabui.vgvd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342225412167-mfi8v2hmlinkcspuvj9p74eud94gn81v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xiabui.vgvd",
+            "certificate_hash": "2c8b05c98a0ce97b2d4a083c217abd6a020d0d20"
+          }
+        },
+        {
+          "client_id": "342225412167-qpjsrnjeklfk8bq6ktb71dckr52v0tha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaZ2B_Jnu0g6QbrJzvCTUP12q8RHQ_mwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342225412167-qpjsrnjeklfk8bq6ktb71dckr52v0tha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
